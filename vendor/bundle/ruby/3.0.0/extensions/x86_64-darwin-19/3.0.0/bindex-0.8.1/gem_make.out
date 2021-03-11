@@ -1,0 +1,15 @@
+current directory: /Users/apple/grape-api-101/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.0_1/lib/ruby/3.0.0 -r ./siteconf20210311-29984-tpqzfj.rb extconf.rb
+creating Makefile
+
+current directory: /Users/apple/grape-api-101/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/apple/grape-api-101/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/apple/grape-api-101/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210311-29984-tum77x/skiptrace/internal

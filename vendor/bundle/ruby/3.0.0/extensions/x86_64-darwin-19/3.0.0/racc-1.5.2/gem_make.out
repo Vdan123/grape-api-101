@@ -1,0 +1,16 @@
+current directory: /Users/apple/grape-api-101/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.0_1/lib/ruby/3.0.0 -r ./siteconf20210311-53056-bhz7mn.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/apple/grape-api-101/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/apple/grape-api-101/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/apple/grape-api-101/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20210311-53056-n9w830/racc
